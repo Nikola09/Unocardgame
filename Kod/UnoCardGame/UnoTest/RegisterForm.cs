@@ -27,7 +27,7 @@ namespace UnoTest
             this.MinimizeBox = false;
         }
 
-        private void btnRegister_Click(object sender, EventArgs e)
+        private void BtnRegister_Click(object sender, EventArgs e)
         {
             try
             {
@@ -90,7 +90,7 @@ namespace UnoTest
             }
         }
 
-        private void btnBackLog_Click(object sender, EventArgs e)
+        private void BtnBackLog_Click(object sender, EventArgs e)
         {
             LogInForm l = new LogInForm();
             this.Hide();

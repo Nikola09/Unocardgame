@@ -97,7 +97,7 @@
             this.btnJoin.TabIndex = 5;
             this.btnJoin.Text = "Join game";
             this.btnJoin.UseVisualStyleBackColor = true;
-            this.btnJoin.Click += new System.EventHandler(this.btnJoin_Click);
+            this.btnJoin.Click += new System.EventHandler(this.BtnJoin_Click);
             // 
             // btnCreate
             // 
@@ -109,7 +109,7 @@
             this.btnCreate.TabIndex = 6;
             this.btnCreate.Text = "Create new game";
             this.btnCreate.UseVisualStyleBackColor = true;
-            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
+            this.btnCreate.Click += new System.EventHandler(this.BtnCreate_Click);
             // 
             // btnLogOut
             // 
@@ -120,7 +120,7 @@
             this.btnLogOut.TabIndex = 7;
             this.btnLogOut.Text = "Log out";
             this.btnLogOut.UseVisualStyleBackColor = true;
-            this.btnLogOut.Click += new System.EventHandler(this.btnLogOut_Click);
+            this.btnLogOut.Click += new System.EventHandler(this.BtnLogOut_Click);
             // 
             // listView1
             // 

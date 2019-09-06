@@ -79,7 +79,7 @@
             this.btnCreateNewGame.TabIndex = 3;
             this.btnCreateNewGame.Text = "Create game";
             this.btnCreateNewGame.UseVisualStyleBackColor = true;
-            this.btnCreateNewGame.Click += new System.EventHandler(this.btnCreateNewGame_Click);
+            this.btnCreateNewGame.Click += new System.EventHandler(this.BtnCreateNewGame_Click);
             // 
             // btnCancel
             // 
@@ -91,7 +91,7 @@
             this.btnCancel.TabIndex = 4;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
-            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+            this.btnCancel.Click += new System.EventHandler(this.BtnCancel_Click);
             // 
             // lblMaxP
             // 

@@ -29,7 +29,7 @@ namespace UnoTest
 
         }
 
-        private void llblRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LlblRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             RegisterForm reg = new RegisterForm();
             this.Hide();
@@ -37,7 +37,7 @@ namespace UnoTest
             this.Close();
         }
 
-        private void btnLogIn_Click(object sender, EventArgs e)
+        private void BtnLogIn_Click(object sender, EventArgs e)
         {
             try
             {
@@ -96,7 +96,7 @@ namespace UnoTest
             }
         }
 
-        private void btnLogIn_KeyDown(object sender, KeyEventArgs e)
+        private void BtnLogIn_KeyDown(object sender, KeyEventArgs e)
         {
             MessageBox.Show(sender.ToString());
         }

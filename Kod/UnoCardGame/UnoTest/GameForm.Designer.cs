@@ -67,7 +67,7 @@
             this.pbxDeck.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbxDeck.TabIndex = 1;
             this.pbxDeck.TabStop = false;
-            this.pbxDeck.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pbxDeck_MouseClick);
+            this.pbxDeck.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PbxDeck_MouseClick);
             // 
             // btnExit
             // 
@@ -79,7 +79,7 @@
             this.btnExit.TabIndex = 2;
             this.btnExit.Text = "Leave game";
             this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            this.btnExit.Click += new System.EventHandler(this.BtnExit_Click);
             // 
             // pbxField
             // 
@@ -129,7 +129,7 @@
             this.btnEndTurn.TabIndex = 14;
             this.btnEndTurn.Text = "End turn";
             this.btnEndTurn.UseVisualStyleBackColor = true;
-            this.btnEndTurn.Click += new System.EventHandler(this.btnEndTurn_Click);
+            this.btnEndTurn.Click += new System.EventHandler(this.BtnEndTurn_Click);
             // 
             // txtOnTurn
             // 

@@ -36,10 +36,10 @@ namespace UnoTest
             lblUsername.Text = v.player.username;
             lblWinCount.Text = v.player.winCount.ToString();
 
-            this.Refresh();
+            this.RefreshList();
         }
 
-        private void Refresh()
+        private void RefreshList()
         {
             try
             {
@@ -102,7 +102,7 @@ namespace UnoTest
             }
         }
 
-        private void btnJoin_Click(object sender, EventArgs e)
+        private void BtnJoin_Click(object sender, EventArgs e)
         {
             try
             {
@@ -177,11 +177,12 @@ namespace UnoTest
             }
             catch (Exception ec)
             {
-                MessageBox.Show("No game selected!");
+                ec.Source = "No game selected!";
+                MessageBox.Show(ec.Source.ToString());
             }
         }
 
-        private void btnLogOut_Click(object sender, EventArgs e)
+        private void BtnLogOut_Click(object sender, EventArgs e)
         {
             LogInForm l = new LogInForm(); 
             this.Hide();
@@ -189,7 +190,7 @@ namespace UnoTest
             this.Close();
         }
 
-        private void btnCreate_Click(object sender, EventArgs e)
+        private void BtnCreate_Click(object sender, EventArgs e)
         {
             CreateNewGameForm c = new CreateNewGameForm(context);
             this.Hide();
@@ -199,7 +200,7 @@ namespace UnoTest
 
         private void BtnRefresh_Click(object sender, EventArgs e)
         {
-            this.Refresh();
+            this.RefreshList();
         }
     }
 }

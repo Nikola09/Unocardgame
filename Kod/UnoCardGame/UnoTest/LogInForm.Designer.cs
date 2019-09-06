@@ -96,7 +96,7 @@
             this.llblRegister.TabIndex = 4;
             this.llblRegister.TabStop = true;
             this.llblRegister.Text = "Register";
-            this.llblRegister.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llblRegister_LinkClicked);
+            this.llblRegister.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LlblRegister_LinkClicked);
             // 
             // txtLogUsername
             // 
@@ -126,7 +126,7 @@
             this.btnLogIn.TabIndex = 8;
             this.btnLogIn.Text = "Log in";
             this.btnLogIn.UseVisualStyleBackColor = true;
-            this.btnLogIn.Click += new System.EventHandler(this.btnLogIn_Click);
+            this.btnLogIn.Click += new System.EventHandler(this.BtnLogIn_Click);
             // 
             // pictureBox1
             // 

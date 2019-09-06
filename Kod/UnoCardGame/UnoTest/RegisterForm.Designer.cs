@@ -81,7 +81,7 @@
             this.btnRegister.TabIndex = 3;
             this.btnRegister.Text = "Register";
             this.btnRegister.UseVisualStyleBackColor = true;
-            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
+            this.btnRegister.Click += new System.EventHandler(this.BtnRegister_Click);
             // 
             // txtUsernameReg
             // 
@@ -110,7 +110,7 @@
             this.btnBackLog.TabIndex = 6;
             this.btnBackLog.Text = "Return to log screen";
             this.btnBackLog.UseVisualStyleBackColor = true;
-            this.btnBackLog.Click += new System.EventHandler(this.btnBackLog_Click);
+            this.btnBackLog.Click += new System.EventHandler(this.BtnBackLog_Click);
             // 
             // RegisterForm
             // 

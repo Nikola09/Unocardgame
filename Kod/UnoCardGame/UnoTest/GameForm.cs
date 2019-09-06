@@ -64,10 +64,12 @@ namespace UnoTest
             cardBoxes.Clear();
             int index = 0;
             foreach(var card in gameLogic.GetHand())
-            {          
-                var cardBox = new PictureBox();
-                cardBox.Name = "card" + index++;
-                cardBox.SizeMode= PictureBoxSizeMode.StretchImage;
+            {
+                var cardBox = new PictureBox
+                {
+                    Name = "card" + index++,
+                    SizeMode = PictureBoxSizeMode.StretchImage
+                };
                 if (index < 16)
                 {
                     cardBox.Location = new Point(10 + 90 * (index - 1), 0);
@@ -90,13 +92,13 @@ namespace UnoTest
 
                 panelMyCards.Controls.Add(cardBox);
                 cardBoxes.Add(cardBox);
-                cardBox.MouseClick += cardBox_MouseClick;
+                cardBox.MouseClick += CardBox_MouseClick;
             }
 
             pbxField.Image = Bitmap.FromFile(gameLogic.GetTopCardField().GetPath());
         }
 
-        void cardBox_MouseClick(object sender, MouseEventArgs e)
+        void CardBox_MouseClick(object sender, MouseEventArgs e)
         {
             if (gameLogic.IsMyTurn() && !this.finish)
             {
@@ -117,7 +119,7 @@ namespace UnoTest
             }
         }
         
-        private void btnExit_Click(object sender, EventArgs e)
+        private void BtnExit_Click(object sender, EventArgs e)
         {
             if(!gameLogic.IsMyTurn() || this.finish == true)
             {
@@ -175,7 +177,7 @@ namespace UnoTest
             }
         }
 
-        private void pbxDeck_MouseClick(object sender, MouseEventArgs e)
+        private void PbxDeck_MouseClick(object sender, MouseEventArgs e)
         {
             if (!bought && gameLogic.ReturnGameStatus() != null && gameLogic.IsMyTurn() && !this.finish)
             {
@@ -186,7 +188,7 @@ namespace UnoTest
             }
         }
 
-        private void btnEndTurn_Click(object sender, EventArgs e)
+        private void BtnEndTurn_Click(object sender, EventArgs e)
         {
             if (bought && gameLogic.IsMyTurn())
             {

@@ -34,7 +34,7 @@ namespace UnoTest
             this.dUpDown.Text = this.dUpDown.Items[0].ToString();
         }
 
-        private void btnCancel_Click(object sender, EventArgs e)
+        private void BtnCancel_Click(object sender, EventArgs e)
         {
             LoggedInScreen f = new LoggedInScreen(this.context);
             this.Hide();
@@ -42,7 +42,7 @@ namespace UnoTest
             this.Close();
         }
 
-        private void btnCreateNewGame_Click(object sender, EventArgs e)
+        private void BtnCreateNewGame_Click(object sender, EventArgs e)
         {
             try
             {
