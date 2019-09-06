@@ -1,0 +1,271 @@
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.csprojResolveAssemblyReference.cache
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.Cache
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\PC.DESKTOP-RF5367G\Downloads\UnoTest\UnoTest\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Deki\Downloads\UnoTest (1)\UnoTest\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nikola\Desktop\UnoTest AcinStil\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Nikola\Desktop\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.Cache
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Deki\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Nikola\Desktop\Uno\UnoTest\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Nikola\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Nikola\Desktop\Uno\UnoTest\UnoTest\obj\Debug\UnoTest.pdb
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\FluentNHibernate.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Iesi.Collections.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\NHibernate.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Remotion.Linq.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Antlr3.Runtime.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\FluentNHibernate.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Iesi.Collections.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Newtonsoft.Json.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\NHibernate.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\RabbitMQ.Client.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Remotion.Linq.xml
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.Form1.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.GameForm.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\UnoTest.ColorForm.resources
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\MasterServer.exe.config
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\MasterServer.exe
+D:\Nine\Uno00\UnoTest\UnoTest\bin\Debug\MasterServer.pdb
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\MasterServer.exe
+D:\Nine\Uno00\UnoTest\UnoTest\obj\Debug\MasterServer.pdb
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.Form1.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\CardsModel.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\CardsModel.pdb
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\nikol\source\repos\UnoCardGame\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\CardsModel.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\CardsModel.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.pdb

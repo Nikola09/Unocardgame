@@ -1,0 +1,46 @@
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.ColorForm.resources
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\CardsModel.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\CardsModel.pdb
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\FluentNHibernate.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Iesi.Collections.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\NHibernate.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Antlr3.Runtime.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\FluentNHibernate.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Iesi.Collections.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\NHibernate.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.CopyComplete
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.dll
+C:\Users\nikol\source\repos\UnoCardGame\CardsModel\obj\Debug\CardsModel.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\CardsModel.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\CardsModel.pdb
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\NHibernate.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\NHibernate.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.csprojAssemblyReference.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.ColorForm.resources
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.GenerateResource.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.csproj.CopyComplete
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.dll
+C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\CardsModel\obj\Debug\CardsModel.pdb
