@@ -138,3 +138,32 @@ C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\MasterServer\obj\Debug\Maste
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\MasterServer\obj\Debug\MasterServer.csproj.CopyComplete
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\MasterServer\obj\Debug\MasterServer.exe
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\MasterServer\obj\Debug\MasterServer.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\MasterServer.exe.config
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\MasterServer.exe
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\MasterServer.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\CardsModel.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\NHibernate.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\CardsModel.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\NHibernate.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\obj\Debug\MasterServer.csprojAssemblyReference.cache
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\obj\Debug\MasterServer.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\obj\Debug\MasterServer.csproj.CopyComplete
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\obj\Debug\MasterServer.exe
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\MasterServer\obj\Debug\MasterServer.pdb

@@ -269,3 +269,40 @@ C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.cs
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.exe
 C:\Users\Deki\Downloads\UnoCardGame (1)\UnoCardGame\UnoTest\obj\Debug\UnoTest.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe.config
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\UnoTest.exe
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\UnoTest.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\CardsModel.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\NHibernate.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\CardsModel.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\NHibernate.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.csprojAssemblyReference.cache
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.CreateNewGameForm.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.GameForm.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.LoggedInScreen.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.LogInForm.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.Properties.Resources.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.RegisterForm.resources
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.GenerateResource.cache
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.csproj.CopyComplete
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.exe
+C:\Users\Deki\Source\Repos\Nikola09\Unocardgame\Kod\UnoCardGame\UnoTest\obj\Debug\UnoTest.pdb

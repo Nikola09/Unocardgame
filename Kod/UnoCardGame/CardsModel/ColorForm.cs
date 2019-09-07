@@ -19,6 +19,7 @@ namespace CardsModel
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void BtnChoose_Click(object sender, EventArgs e)

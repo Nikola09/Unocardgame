@@ -160,6 +160,7 @@ namespace UnoTest
                                          routingKey: "exitGame",
                                          basicProperties: null,
                                          body: body);
+
                     while (!primio) ;
 
                     gameStarted = false;
@@ -334,6 +335,21 @@ namespace UnoTest
             }
         }
 
+        delegate void HideEndTUrnButtonCallback();
+
+        public void HideEndTurnButton()
+        {
+            if (this.btnEndTurn.InvokeRequired)
+            {
+                HideEndTUrnButtonCallback d = new HideEndTUrnButtonCallback(HideEndTurnButton);
+                this.Invoke(d);
+            }
+            else
+            {
+                this.btnEndTurn.Hide();
+            }
+        }
+
         private void StartListening()
         {
             Task.Run(() =>
@@ -364,28 +380,28 @@ namespace UnoTest
                             var gs = JsonConvert.DeserializeObject<GameStatus>(messageR,settings);
                             gameLogic.GetStatus(gs);
 
+                            this.players = gs.playerCards;
+
+                            ClearList();
+                            this.listPlayers.Items.Clear();
+                            foreach (PlayerCards p in players)
+                            {
+                                ListViewItem item = new ListViewItem(p.name);
+                                item.SubItems.Add(p.cards.Count.ToString());
+
+                                AddPlayerToList(item);
+                            }
+
                             if (!gameLogic.ReturnWinner().Equals(""))
                             {
                                 SetWinnerLabel();
                                 SetOnTurnLabel(gameLogic.ReturnWinner());
+                                HideEndTurnButton();
                                 this.finish = true;
                             }
                             else
                             {
                                 SetOnTurnLabel(gameLogic.GetOnTurn());
-
-
-                                this.players = gs.playerCards;
-
-                                ClearList();
-                                this.listPlayers.Items.Clear();
-                                foreach (PlayerCards p in players)
-                                {
-                                    ListViewItem item = new ListViewItem(p.name);
-                                    item.SubItems.Add(p.cards.Count.ToString());
-
-                                    AddPlayerToList(item);
-                                }
 
                                 this.Invoke(new Action(() => RefreshCards()));
                             }
