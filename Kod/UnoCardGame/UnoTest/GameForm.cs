@@ -161,6 +161,7 @@ namespace UnoTest
                                          basicProperties: null,
                                          body: body);
 
+                    GameStartListening();
                     while (!primio) ;
 
                     gameStarted = false;
@@ -465,19 +466,34 @@ namespace UnoTest
                             var game = JsonConvert.DeserializeObject<Game>(messageR, settings);
                             this.g = game;
                             ClearList();
-                            foreach(Player player in this.g.players)
+                            if (gameLogic.ReturnGameStatus() == null)
                             {
-                                ListViewItem item = new ListViewItem(player.username);
-                                item.SubItems.Add("");
+                                foreach (Player player in this.g.players)
+                                {
+                                    ListViewItem item = new ListViewItem(player.username);
+                                    item.SubItems.Add("");
 
-                                AddPlayerToList(item);
+                                    AddPlayerToList(item);
+                                }
+                            }
+                            else
+                            {
+                                foreach (PlayerCards player in this.gameLogic.ReturnGameStatus().playerCards)
+                                {
+                                    ListViewItem item = new ListViewItem(player.name);
+                                    item.SubItems.Add(player.cards.Count.ToString());
+
+                                    AddPlayerToList(item);
+                                }
                             }
                         };
 
                         channel.BasicConsume(queue: queueName,
                                              autoAck: true,
                                              consumer: consumer);
-                        if (g.status == 0)
+                        //if (g.status == 0)
+                        //{
+                        if (g.currentPlayerCount > 1)
                         {
                             var message = g.id;
                             var body = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(message, settings));
@@ -486,10 +502,11 @@ namespace UnoTest
                                                  basicProperties: null,
                                                  body: body);
                         }
-                        else
-                        {
-                            gameStarted = false;
-                        }
+                            //}
+                        //else
+                        //{
+                        //    gameStarted = false;
+                        //}
 
                         while (gameStarted)
                         {

@@ -320,7 +320,7 @@ namespace MasterServer
                                 int s1 = Int32.Parse(message);
 
                                 Game game = klasa.returnGame(s1);
-
+                                
                                 var routing = "game" + game.name.ToString();
                                 var body1 = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(game, settings));
                                 channel.BasicPublish(exchange: "gameStartResponse",
