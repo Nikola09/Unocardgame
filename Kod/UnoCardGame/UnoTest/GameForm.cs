@@ -476,16 +476,6 @@ namespace UnoTest
                                     AddPlayerToList(item);
                                 }
                             }
-                            else
-                            {
-                                foreach (PlayerCards player in this.gameLogic.ReturnGameStatus().playerCards)
-                                {
-                                    ListViewItem item = new ListViewItem(player.name);
-                                    item.SubItems.Add(player.cards.Count.ToString());
-
-                                    AddPlayerToList(item);
-                                }
-                            }
                         };
 
                         channel.BasicConsume(queue: queueName,
