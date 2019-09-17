@@ -247,7 +247,7 @@ namespace MasterServer
                                         {
                                             if(!found)
                                             {
-                                                if(game.players[j].username.Equals(s1.playerCards[i].name))
+                                                if(game.players[j].username.Equals(s1.playerCards[i].Name))
                                                 {
                                                     found = true;
                                                 }
@@ -289,14 +289,14 @@ namespace MasterServer
 
                                 if(s1.playerCards.Count == 1)
                                 {
-                                    klasa.winCountInc(s1.playerCards[0].name);
+                                    klasa.winCountInc(s1.playerCards[0].Name);
                                 }
 
                                 foreach (PlayerCards player in s1.playerCards)
                                 {
-                                    if (player.cards.Count == 0)
+                                    if (player.Cards.Count == 0)
                                     {
-                                        klasa.winCountInc(player.name);
+                                        klasa.winCountInc(player.Name);
                                     }
                                 }
 

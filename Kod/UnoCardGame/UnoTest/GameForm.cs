@@ -57,6 +57,14 @@ namespace UnoTest
             gameLogic.SetPlayers(new List<Player>(g.players));
             gameLogic.SetGameId(g.id); 
             gameLogic.SetMyName(v.player.username);
+
+            foreach (Player player in this.g.players)
+            {
+                ListViewItem item = new ListViewItem(player.username);
+                item.SubItems.Add("");
+
+                this.listPlayers.Items.Add(item);
+            }
         }
 
         private void RefreshCards()
@@ -161,7 +169,10 @@ namespace UnoTest
                                          basicProperties: null,
                                          body: body);
 
-                    GameStartListening();
+                    if (this.gameLogic.ReturnGameStatus() == null)
+                    {
+                        GameStartListening();
+                    }
                     while (!primio) ;
 
                     gameStarted = false;
@@ -232,6 +243,7 @@ namespace UnoTest
             StartListening();
         }
 
+        #region Delegates
         delegate void AddPlayerToListCallback(ListViewItem player);
 
         public void AddPlayerToList(ListViewItem player)
@@ -350,6 +362,7 @@ namespace UnoTest
                 this.btnEndTurn.Hide();
             }
         }
+        #endregion
 
         private void StartListening()
         {
@@ -387,8 +400,8 @@ namespace UnoTest
                             this.listPlayers.Items.Clear();
                             foreach (PlayerCards p in players)
                             {
-                                ListViewItem item = new ListViewItem(p.name);
-                                item.SubItems.Add(p.cards.Count.ToString());
+                                ListViewItem item = new ListViewItem(p.Name);
+                                item.SubItems.Add(p.Cards.Count.ToString());
 
                                 AddPlayerToList(item);
                             }
@@ -466,24 +479,20 @@ namespace UnoTest
                             var game = JsonConvert.DeserializeObject<Game>(messageR, settings);
                             this.g = game;
                             ClearList();
-                            if (gameLogic.ReturnGameStatus() == null)
+                            foreach (Player player in this.g.players)
                             {
-                                foreach (Player player in this.g.players)
-                                {
-                                    ListViewItem item = new ListViewItem(player.username);
-                                    item.SubItems.Add("");
+                                ListViewItem item = new ListViewItem(player.username);
+                                item.SubItems.Add("");
 
-                                    AddPlayerToList(item);
-                                }
+                                AddPlayerToList(item);
                             }
                         };
 
                         channel.BasicConsume(queue: queueName,
                                              autoAck: true,
                                              consumer: consumer);
-                        //if (g.status == 0)
-                        //{
-                        if (g.currentPlayerCount > 1)
+                        
+                        if (g.currentPlayerCount > 1 && gameLogic.ReturnGameStatus() == null)
                         {
                             var message = g.id;
                             var body = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(message, settings));
@@ -492,11 +501,6 @@ namespace UnoTest
                                                  basicProperties: null,
                                                  body: body);
                         }
-                            //}
-                        //else
-                        //{
-                        //    gameStarted = false;
-                        //}
 
                         while (gameStarted)
                         {

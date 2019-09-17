@@ -5,30 +5,41 @@ namespace Cards
 {
     public class PlayerCards
     {
-        public String name { get; set; }
-        public List<Card> cards { get; set; }
+        private String name;
+        private List<Card> cards;
+
+        public String Name
+        {
+            get { return this.name; }
+            set { this.name = value; }
+        }
+
+        public List<Card> Cards
+        {
+            get { return this.cards; }
+            set { this.cards = value; }
+        }
+
         public PlayerCards(String n,List<Card> cs)
         {
-            name = n;
-            cards = cs;
-
+            this.name = n;
+            this.cards = cs;
         }
+
         public void AddCard(Card c)
         {
-            cards.Add(c);
-
+            this.cards.Add(c);
         }
+
         public void RemoveCard(Card c)
         {
-            cards.Remove(c);
-
+            this.cards.Remove(c);
         }
+
         public void ReplaceCards(List<Card> cs)
         {
-            cards.Clear();
-            cards = cs;
+            this.cards.Clear();
+            this.cards = cs;
         }
     }
-
-    
 }

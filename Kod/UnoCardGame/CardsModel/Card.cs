@@ -4,37 +4,61 @@ namespace Cards
 {
     public class Card
     {
-        public string number { get; set; }
-        public string color { get; set; } // 0 red 1 orange 2 green 3 blue 4 wild
-        public bool OnTheField { get; set; }
-        public int buy { get; set; }
+        private string number;
+        private string color; // 0 red 1 orange 2 green 3 blue 4 wild
+        private bool onTheField;
+        private int buy;
+        private string type;
+
+        #region get-set
+        public string Number
+        {
+            get { return this.number; }
+            set { this.number = value; }
+        }
+
+        public string Color
+        {
+            get { return this.color; }
+            set { this.color = value; }
+        }
+
+        public bool OnTheField
+        {
+            get { return this.onTheField; }
+            set { this.onTheField = value; }
+        }
+
+        public int Buy
+        {
+            get { return this.buy; }
+            set { this.buy = value; }
+        }
+
+        public string Type
+        {
+            get { return this.type; }
+            set { this.type = value; }
+        }
+        #endregion
 
         public Card()
         {
-            buy = 0;
+            this.buy = 0;
         }
 
         public Card(string number, string sign) 
         {
             this.number = number;
             this.color = sign;
-            OnTheField = false;
-            buy = 0;
+            this.onTheField = false;
+            this.buy = 0;
+            this.type = "";
         }
         
         public string GetPath()
         {
-            return "Pictures\\" + number + color + ".PNG";
-        }
-
-        /*public virtual void Action()
-        {
-            GameLogic.GetGameLogic().NextPlayer();
-        }
-        */
-        public virtual String Special()
-        {
-            return "";
+            return "Pictures\\" + this.number + this.color + ".PNG";
         }
     }
 }

@@ -87,10 +87,10 @@
             this.radBlue.AutoSize = true;
             this.radBlue.Location = new System.Drawing.Point(6, 146);
             this.radBlue.Name = "radBlue";
-            this.radBlue.Size = new System.Drawing.Size(46, 17);
+            this.radBlue.Size = new System.Drawing.Size(55, 17);
             this.radBlue.TabIndex = 3;
             this.radBlue.TabStop = true;
-            this.radBlue.Text = "Blue";
+            this.radBlue.Text = "Purple";
             this.radBlue.UseVisualStyleBackColor = true;
             // 
             // groupBox1

@@ -6,7 +6,7 @@ namespace Cards
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("AIPS projekat oktobar 2019.");
         }
     }
 }

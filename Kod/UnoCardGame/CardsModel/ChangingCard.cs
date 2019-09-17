@@ -11,18 +11,10 @@ namespace Cards
 {
     public class ChangingCard : Card
     {
-        public int fieldValue { get; set; }
-
-        public int buy { get; set; }
 
         public ChangingCard(string number,string color) : base(number,color)
         {
-            
-        }
-
-        public override string Special()
-        {
-            return "ChangingCard";
+            base.Type = "ChangingCard";
         }
     }
 }

@@ -30,13 +30,13 @@ namespace Cards
 
         public GameLogic()
         {
-            players = new List<Player>();
-            IndexPlaying = 0;
-            winnerName = "";
-            Deck = new List<Card>();
-            Field = new List<Card>();
+            this.players = new List<Player>();
+            this.IndexPlaying = 0;
+            this.winnerName = "";
+            this.Deck = new List<Card>();
+            this.Field = new List<Card>();
             InicDeck();
-            myHand = new List<Card>();
+            this.myHand = new List<Card>();
         }
 
         public List<Card> GetDeck()
@@ -61,14 +61,13 @@ namespace Cards
 
         public void SetVC(ViewClass v)
         {
-            vc = v;
+            this.vc = v;
         }
 
         public ViewClass GetVC()
         {
-            return vc;
+            return this.vc;
         }
-
 
         public void SetMyIndex(int index)
         {
@@ -444,47 +443,44 @@ namespace Cards
 
         public void CurrentPlayerThrowsCard(Card card)
         {
-            var itemToRemove = myHand.FirstOrDefault(u => u.color == card.color && u.number == card.number);
+            var itemToRemove = myHand.FirstOrDefault(u => u.Color == card.Color && u.Number == card.Number);
             myHand.Remove(itemToRemove);
             ThrowCardOnTheField(card);
 
-            switch (card.number)
+            switch (card.Type)
             {
-                case "10": //Skiping card
+                case "SkippingCard": //Skiping card
                     {
                         NextPlayer();
                         break;
                     }
-                case "11": //Reverse card
+                case "ReversingCard": //Reverse card
                     {
                         ChangeReverse();
                         break;
                     }
-                case "12": //Buying card
+                case "BuyingCard": //Buying card
                     {
-                        NextPlayerBuy(card.buy);
+                        NextPlayerBuy(card.Buy);
+                        break;
+                    }
+                case "ChangingCard":
+                    {
+                        using (var form = new ColorForm())
+                        {
+                            var result = form.ShowDialog();
+                            if (result == DialogResult.OK)
+                            {
+                                SetFieldColor(form.ReturnColor);
+                            }
+                            else
+                                SetFieldColor(0);
+                        }
                         break;
                     }
                 default:
                     {
-                        if(card.color.Equals("4")) //Changing card
-                        {
-                            using (var form = new ColorForm())
-                            {
-                                var result = form.ShowDialog();
-                                if (result == DialogResult.OK)
-                                {
-                                    SetFieldColor(form.ReturnColor);
-                                }
-                                else 
-                                    SetFieldColor(0);
-                            }
-                            break;
-                        }
-                        else //Normal card
-                        {
-                            break;
-                        }
+                        break;
                     }
             }
 
@@ -500,15 +496,15 @@ namespace Cards
         {
             bool ret = false;
             Card top = GetTopCardField();
-            if(card.color.Equals("4"))
+            if(card.Color.Equals("4"))
             {
                 ret = true;
             }
-            else if(top.color.Equals("4"))
+            else if(top.Color.Equals("4"))
             {
-                if (top.number.Equals("0"))
+                if (top.Number.Equals("0"))
                 {
-                    if (card.color.Equals(gs.fieldColor.ToString()))
+                    if (card.Color.Equals(gs.fieldColor.ToString()))
                     {
                         ret = true;
                     }
@@ -518,7 +514,7 @@ namespace Cards
                     ret = true;
                 }
             }
-            else if (card.number.Equals(top.number) || card.color.Equals(top.color))
+            else if (card.Number.Equals(top.Number) || card.Color.Equals(top.Color))
             {
                 ret = true;
             }
@@ -578,9 +574,9 @@ namespace Cards
             {
                 foreach (PlayerCards player in gs.playerCards)
                 {
-                    if (player.cards.Count == 0)
+                    if (player.Cards.Count == 0)
                     {
-                        gs.winner = player.name;
+                        gs.winner = player.Name;
                     }
                 }
             }
@@ -595,15 +591,15 @@ namespace Cards
                 {
                     foreach(PlayerCards cards in gs.playerCards)
                     {
-                        if(cards.name == this.me)
+                        if(cards.Name == this.me)
                         {
-                            this.myHand = cards.cards;
+                            this.myHand = cards.Cards;
                         }
                     }
                     Deck = gs.deck;
                     Field = gs.field;
                     fieldColor = gs.fieldColor;
-                    onTurnPlayer = gs.playerCards[gs.currentPlayerId].name;
+                    onTurnPlayer = gs.playerCards[gs.currentPlayerId].Name;
                 }
             }
         }
