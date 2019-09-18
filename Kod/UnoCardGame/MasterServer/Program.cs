@@ -236,6 +236,7 @@ namespace MasterServer
 
                                 var s1 = JsonConvert.DeserializeObject<GameStatus>(message, settings);
 
+                                #region Player Count Check
                                 Game game = proxy.ReturnGame(s1.gameId);
                                 bool found;
 
@@ -275,8 +276,9 @@ namespace MasterServer
                                         }
                                     }
                                 }
+                                #endregion
 
-                                if(s1.currentPlayerId == s1.maxPlayers)
+                                if (s1.currentPlayerId == s1.maxPlayers)
                                 {
                                     if(s1.reversed)
                                     {
@@ -288,9 +290,11 @@ namespace MasterServer
                                     }
                                 }
 
-                                if(s1.playerCards.Count == 1)
+                                #region Winner
+                                if (s1.playerCards.Count == 1)
                                 {
                                     proxy.WinCountInc(s1.playerCards[0].Name);
+                                    s1.winner = s1.playerCards[0].Name;
                                 }
 
                                 foreach (PlayerCards player in s1.playerCards)
@@ -298,8 +302,11 @@ namespace MasterServer
                                     if (player.Cards.Count == 0)
                                     {
                                         proxy.WinCountInc(player.Name);
+                                        s1.winner = player.Name;
+                                        break;
                                     }
                                 }
+                                #endregion
 
                                 var routing = "game" + s1.gameId.ToString();
                                 var body1 = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(s1, settings));

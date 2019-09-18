@@ -565,22 +565,7 @@ namespace Cards
         public void GetStatus(GameStatus gs1)
         {
             gs = gs1;
-
-            if (gs.playerCards.Count == 1)
-            {
-                gs.winner = this.me;
-            }
-            else
-            {
-                foreach (PlayerCards player in gs.playerCards)
-                {
-                    if (player.Cards.Count == 0)
-                    {
-                        gs.winner = player.Name;
-                    }
-                }
-            }
-
+            
             if (gs.gameId == myGame)
             {
                 if(!gs.winner.Equals(""))
@@ -600,23 +585,17 @@ namespace Cards
                     Field = gs.field;
                     fieldColor = gs.fieldColor;
                     onTurnPlayer = gs.playerCards[gs.currentPlayerId].Name;
+                    IndexPlaying = gs.currentPlayerId;
                 }
             }
         }
 
         public GameStatus SendStatus()
         {
-            if(myHand.Count == 0)
-            {
-                gs.winner = me;
-            }
-            else
-            {
-                gs.deck = Deck;
-                gs.field = Field;
-                gs.fieldCard = GetTopCardField();
-                gs.fieldColor = fieldColor;
-            }
+            gs.deck = Deck;
+            gs.field = Field;
+            gs.fieldCard = GetTopCardField();
+            gs.fieldColor = fieldColor;
             return gs;
         }
     }
