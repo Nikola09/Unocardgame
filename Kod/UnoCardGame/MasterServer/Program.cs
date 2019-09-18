@@ -89,7 +89,7 @@ namespace MasterServer
                 consumer.Received += (model, ea) =>
                 {
                     #region attributes
-                    MasterServer.Model.IModel klasa = new Modell();
+                    Proxy proxy = new Proxy();
                     var body = ea.Body;
                     var message = Encoding.UTF8.GetString(body);
                     var response = "";
@@ -102,11 +102,12 @@ namespace MasterServer
                     Console.WriteLine(" [*] Message received");
                     Console.WriteLine(" [R] {0}", message);
                     Console.WriteLine(" [*] ");
+
                     switch (ea.RoutingKey)
                     {
                         case "login":
                             {
-                                Player i = klasa.returnPlayer(p[1]);
+                                Player i = proxy.ReturnPlayer(p[1]);
                                 bool success = false;
                                 if (i == null)
                                     response = "Username is not recognized";
@@ -115,7 +116,7 @@ namespace MasterServer
                                 else
                                 {
                                     pr.player = i;
-                                    pr.games = klasa.returnGames();
+                                    pr.games = proxy.ReturnGames();
                                     success = true;
                                 }
                                 if (!success)
@@ -135,7 +136,7 @@ namespace MasterServer
                             }
                         case "register":
                             {
-                                bool succes = klasa.addPlayer(p[1], p[3]);
+                                bool succes = proxy.AddPlayer(p[1], p[3]);
                                 if (succes)
                                 {
                                     response = "Registration success!";
@@ -156,7 +157,7 @@ namespace MasterServer
                             }
                         case "createGame":
                             {
-                                Game i = klasa.checkGameName(p[1], p[3], p[5]);
+                                Game i = proxy.CheckGameName(p[1], p[3], p[5]);
                                 if (i == null)
                                     response = "Game with that name already exists";
                                 if (response == "")
@@ -176,7 +177,7 @@ namespace MasterServer
                             }
                         case "joinGame":
                             {
-                                Game i = klasa.joinGame(p[1], p[3]);
+                                Game i = proxy.JoinGame(p[1], p[3]);
                                 if (i == null)
                                     response = "Failed to join game";
                                 if (response == "")
@@ -196,7 +197,7 @@ namespace MasterServer
                             }
                         case "gameList": 
                             {
-                                IList<Game> listofGames = klasa.returnGames();
+                                IList<Game> listofGames = proxy.ReturnGames();
 
                                 o = listofGames;
                                 response = "Game list updated";
@@ -210,10 +211,10 @@ namespace MasterServer
                             }
                         case "exitGame":
                             {
-                                klasa.exitGame(p[1], p[3]);
+                                proxy.ExitGame(p[1], p[3]);
 
-                                pr.games = klasa.returnGames();
-                                pr.player = klasa.returnPlayer(p[3]);
+                                pr.games = proxy.ReturnGames();
+                                pr.player = proxy.ReturnPlayer(p[3]);
                                 response = "Player " + pr.player.username + " left "+ p[1];
                                 o = pr;
 
@@ -235,7 +236,7 @@ namespace MasterServer
 
                                 var s1 = JsonConvert.DeserializeObject<GameStatus>(message, settings);
 
-                                Game game = klasa.returnGame(s1.gameId);
+                                Game game = proxy.ReturnGame(s1.gameId);
                                 bool found;
 
                                 while(game.players.Count != s1.playerCards.Count)
@@ -289,14 +290,14 @@ namespace MasterServer
 
                                 if(s1.playerCards.Count == 1)
                                 {
-                                    klasa.winCountInc(s1.playerCards[0].Name);
+                                    proxy.WinCountInc(s1.playerCards[0].Name);
                                 }
 
                                 foreach (PlayerCards player in s1.playerCards)
                                 {
                                     if (player.Cards.Count == 0)
                                     {
-                                        klasa.winCountInc(player.Name);
+                                        proxy.WinCountInc(player.Name);
                                     }
                                 }
 
@@ -319,7 +320,7 @@ namespace MasterServer
 
                                 int s1 = Int32.Parse(message);
 
-                                Game game = klasa.returnGame(s1);
+                                Game game = proxy.ReturnGame(s1);
                                 
                                 var routing = "game" + game.name.ToString();
                                 var body1 = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(game, settings));
@@ -337,6 +338,7 @@ namespace MasterServer
                                 break;
                             }
                     }
+
                     Console.WriteLine(" [*] Press any key to exit...");
                 };
                 channel.BasicConsume(queue: queue,

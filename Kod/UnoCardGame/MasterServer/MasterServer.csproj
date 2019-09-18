@@ -81,6 +81,7 @@
     <Compile Include="Model\IModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

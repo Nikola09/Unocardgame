@@ -11,23 +11,33 @@ namespace MasterServer.Model
 {
     public class Modell : IModel
     {
-        List<int> cards = new List<int>();
-        List<int> IModel.Cards
-        {
-            get
-            {
-                return cards;
-            }
-        }
-       
 
-        public void addGame(Game x)
+        public Player returnPlayer(string username)
         {
             ISession s = DataLayer.GetSession();
-            s.Save(x);
-            s.Flush();
+            IQuery q = s.CreateQuery("from Player p where p.username=:username");
+            q.SetString("username", username);
+            Player p = q.UniqueResult<Player>();
             s.Close();
+            return p;
+        }
 
+        public Game returnGame(int id)
+        {
+            ISession s = DataLayer.GetSession();
+            IQuery q = s.CreateQuery("from Game g where g.id=:id");
+            q.SetParameter("id", id);
+            Game g = q.UniqueResult<Game>();
+            return g;
+        }
+
+        public IList<Game> returnGames()
+        {
+            ISession s = DataLayer.GetSession();
+            IQuery q = s.CreateQuery("from Game");
+            IList<Game> res = q.List<Game>();
+            s.Close();
+            return res;
         }
 
         public bool addPlayer(string username, string password)
@@ -152,49 +162,7 @@ namespace MasterServer.Model
                 s.Close();
                 
                 return g;
-        }
-
-        public Game refresh(string name)
-        {
-            ISession s = DataLayer.GetSession();
-            IQuery q = s.CreateQuery("from Game g where g.name=:name");
-            q.SetParameter("name", name);
-            Game g = q.UniqueResult<Game>();
-            return g;
-        }
-
-        public List<int> returnCards(int x)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IList<Game> returnGames()
-        {
-            ISession s = DataLayer.GetSession();
-            IQuery q = s.CreateQuery("from Game");
-            IList<Game> res = q.List<Game>();
-            s.Close();
-            return res;
-        }
-
-        public Player returnPlayer(string username)
-        {
-            ISession s = DataLayer.GetSession();
-            IQuery q = s.CreateQuery("from Player p where p.username=:username");
-            q.SetString("username", username);
-            Player p = q.UniqueResult<Player>();
-            s.Close();
-            return p;
-        }
-
-        public Game returnGame(int id)
-        {
-            ISession s = DataLayer.GetSession();
-            IQuery q = s.CreateQuery("from Game g where g.id=:id");
-            q.SetParameter("id", id);
-            Game g = q.UniqueResult<Game>();
-            return g;
-        }
+        }   
 
         public void winCountInc(string name)
         {
