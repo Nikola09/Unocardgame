@@ -169,10 +169,9 @@ namespace UnoTest
                                          basicProperties: null,
                                          body: body);
 
-                    if (this.gameLogic.ReturnGameStatus() == null)
-                    {
-                        GameStartListening();
-                    }
+                   
+                    GameStartListening();
+                    
                     while (!primio) ;
 
                     gameStarted = false;
